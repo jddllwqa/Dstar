@@ -1,4 +1,4 @@
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dstar.app
+
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Internet Identity Wiki
 
