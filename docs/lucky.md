@@ -8,7 +8,7 @@
 
 
 
-| Maximum number of occurrences | Score | include 4 | include 7 |
+| Most frequent number | Score | include 4 | include 7 |
 | :---------------------------: | :---: | :-------: | :-------: |
 | 8                             | +8    | -4        | -2        |
 | 6                             | +7    | -4        | -2        |
