@@ -2,7 +2,7 @@
 
 
 
-> This figure has no reference value and is only for calculation.
+> This score has no reference value and is only for calculation.
 
 
 
