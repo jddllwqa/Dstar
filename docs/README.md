@@ -12,7 +12,7 @@ Internet computers have all the capabilities of the traditional Internet, and we
 
 ## Features
 
--  Telegram
+- No Telegram
 
 - No Twitter
 

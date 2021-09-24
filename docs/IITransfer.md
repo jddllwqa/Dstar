@@ -168,5 +168,5 @@
 
 <br/>
 
-# Complete transfer
+# Completed transfer
 
