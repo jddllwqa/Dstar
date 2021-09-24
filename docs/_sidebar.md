@@ -1,0 +1,16 @@
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dstar.app
+
+### &nbsp;&nbsp;&nbsp;&nbsp; Internet Identity Wiki
+
+* [How to transfer your II account](IITransfer.md)
+
+  [II ID score(Slow opening, please wait)](score.md)
+
+  [II ID types](types.md)
+
+  [II ID visual effect](Visual.md)
+
+  [II ID lucky number](lucky.md)
+
+  
+
