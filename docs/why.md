@@ -1,26 +1,26 @@
 ### Why should we buy II?
 
-> Obviously, buying II is not necessary. If you make mistakes, there will be risks. You can get it for free.[Internet Identity](https://identity.ic0.app/)
+> Obviously, buying II is not necessary. If you make mistakes, there will be risks. You can get it for free via Internet Identity.[Internet Identity](https://identity.ic0.app/)
 
 ### II ID tips
 
-- II ID increases from the initial 10000 . Due to anonymity requirements, this ID is not displayed to the public
-- You can't show off your ID on  Internet computer, even  you have 88888
-- Short numbers are easier to remember and enter. It is necessary for people who often clear the cache and care about safety
-- II itself is the most frequently used DAPP on IC. If IC becomes an Internet infrastructure, you need to use it almost every day
-- In the future, II ID will  exceed 9 digits and will be very easy to forget, especially those who occasionally participate in IC network
-- If II is used, it will be associated with DAPP, it is not suitable for transaction, so there will be  less and less short numbers
+-  II ID starts from 10000. All the ID prior to 10000 are reserved.
+-  It is recommended not to show off your ID due to security reason.
+- Short numbers are easier to remember and type, which make things a lot easier for people who clean browser cache frenquently.
+-  II is the fundenmental infrastructure to run dapp on Internet Computer. You will need to use it nearly everyday.
+- It is foreseeable that II ID will become 9 digit long and would be painful if you have to type in multiple times a day. Owning an short II ID would be of great convinience eapecially for those who participate in IC network.
+-  If II are used to interact with dapp, they are no longer suitable to trade since all previous activities on those dapp will also be traded along with the II.
 
 ### who is suitable for purchasing II ID?
 
-- Some people have feelings for some numbers, such as birthday, license plate, wedding anniversary, etc
-- People who like good numbers think it is an honor to have rare things
-- People who hate memorizing long numbers
-- For those who pay attention to security, they will clear the browser cache every day and re-enter it when necessary
+- Certain II numbers might carry special meanings, such as birthday, license plate, wedding anniversary, etc.
+- Owning an rare would might be an honor just like people spend million of dollors for an cryptopunk.
+- People who hate memorizing long numbers.
+- For those who pay attention to security, they will clear the browser cache every day and re-enter it when necessary.
 
-### II transaction tips
+### Tips
 
-- It is not recommended to sell and purchase be used II because it carries personal traces
+- It is not recommended to sell and purchase be used II because it carries personal traces.
 - Don't delete old devices and seed pharse before you add new device.  Click  [How to transfer II](IITransfer)
 
 ### 
