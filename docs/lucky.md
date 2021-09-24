@@ -17,6 +17,6 @@
 | 3                             | +6    | -4        | -2        |
 | 2                             | +6    | -4        | -2        |
 | 1                             | +6    | -4        | -2        |
-| 7                             | +2    | -4        | -2        |
+| 7                             | +2    | 0        | 0        |
 | 4                             | +0    | 0         | 0         |
 | DDDC'est La VieDDD|DDDC'est La VieDDD|DDDC'est La VieDDD|DDDC'est La VieDDD|
