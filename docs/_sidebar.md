@@ -12,5 +12,5 @@
 
   [II ID lucky number](lucky.md)
 
-  
+  [why buy it](/why.md)
 
