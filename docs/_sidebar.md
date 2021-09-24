@@ -4,7 +4,7 @@
 
 * [How to transfer your II account](IITransfer.md)
 
-  [II ID score(Slow opening, please wait)](score.md)
+  [II ID score](about.md)
 
   [II ID types](types.md)
 

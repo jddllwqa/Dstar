@@ -6,7 +6,7 @@
 
 ## What it is
 
-Internet computers have all the capabilities of the traditional Internet, and we can build everything on it. With the development of IC, we will continue to expand the products of our platform. At present, our first product is Internet identity, which is just the beginning. Please wait for more products to go online.
+Internet computer have all the capabilities of the traditional Internet, and we can build everything on it. With the development of IC, we will continue to expand the products of our platform. At present, our first product is Internet identity, which is just the beginning. Please wait for more products to go online.
 
 
 
