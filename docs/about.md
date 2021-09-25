@@ -18,7 +18,7 @@
 
 - ### All Calculation list
 
-  - [All types and type's rarity](/type)
+  - [All types and type's rarity](/types)
   - [Type's visual effect score](/Visual)
   - [Lucky number  extra score](/lucky)
   - [Early bird extra score](/early)
