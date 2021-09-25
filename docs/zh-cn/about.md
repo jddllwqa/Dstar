@@ -14,12 +14,10 @@
 
 
 
+### 计算清单
 
-
-### All Calculation list
-
-- [All types and type' rarity](/type)
-- [Type's visual effect score](/Visual)
-- [Lucky number  extra score](/lucky)
-- [Early bird extra score](/early)
+- [所有的类型以及类型稀有度](/zh-cn/type)
+- [类型的视觉效果得分](/zh-cn//Visual)
+- [幸运数字加分](/zh-cn/lucky)
+- [早鸟额外加分](/zh-cn/early)
 
