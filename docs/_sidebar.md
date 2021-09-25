@@ -12,5 +12,7 @@
 
   [II ID lucky number](lucky.md)
 
+  [Early bird](/early.md)
+
   [why buy it](/why.md)
 

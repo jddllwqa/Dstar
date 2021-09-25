@@ -1,0 +1,18 @@
+
+> This score is extra for early bird users.
+
+
+|     ID      | Extra score |
+| :---------: | :---------: |
+|    10000    |     +15     |
+| 10000-10100 |     +10     |
+| 10101-10200 |     +9      |
+| 10201-10300 |     +8      |
+| 10301-10400 |     +7      |
+| 10401-10500 |     +6      |
+| 10501-10600 |     +5      |
+| 10601-10700 |     +4      |
+| 10701-10800 |     +3      |
+| 10801-10900 |     +2      |
+| 10901-11000 |     +1      |
+|DDDDDDDDDDDDDDDDC'est La VieDDDDDDDDDDDDDDDD|DDDDDDDDDDDDDDDDC'est La Vie DDDDDDDDDDDDDDDD|
