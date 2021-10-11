@@ -1,6 +1,6 @@
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Dstar
+### &nbsp;&nbsp;&nbsp;&nbsp;About Dstar
 
 * [About Dstar](/)
 
