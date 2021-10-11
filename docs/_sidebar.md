@@ -1,6 +1,15 @@
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Internet Identity Wiki
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Dstar
+
+* [About Dstar](/)
+
+* [Faqs](faq.md)
+
+  
+
+
+### &nbsp;&nbsp;&nbsp;&nbsp;Internet Identity
 
 * [How to transfer your II account](IITransfer.md)
 

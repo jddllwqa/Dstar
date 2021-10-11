@@ -1,4 +1,10 @@
+### &nbsp;&nbsp;关于 Dstar
 
+* [关于 Dstar](/zh-cn/)
+
+* [答疑](/zh-cn/faq.md)
+
+  
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 互联网身份知识库
 

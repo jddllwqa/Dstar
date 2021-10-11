@@ -1,6 +1,6 @@
 ## [Dstar.app](https://dstar.app/)
 
-> A decentralized asset trading platform.We build on Internet computer.<img src="https://tva1.sinaimg.cn/large/008i3skNly1gurmbd77ghj60ho02gaa102.jpg" alt="logo-a810b89ac5628fbfe3f7f0b8e24f5c26" style="zoom:25%;" />
+> II is just the beginning.
 
 
 
