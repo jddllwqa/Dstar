@@ -1,4 +1,4 @@
-# How to transfer your II count
+# How to transfer your II account
 
 > II is Internet identity, with strong anonymity and very high security. By transferring the II account in the correct way, it can have no impact on security. II ID is only visible to yourself. Please do not over invest.
 
