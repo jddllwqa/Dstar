@@ -28,13 +28,13 @@ Is Dstar an II trading platform?
 What will I get If I purchase II?
 
 > You will get an II that you fancy. If you don't need a favorite number, it is not recommended to purchase. We obtain funds through the sale of II. 
-> We are not raising funds, we only sell II. We promise to put early supporters first (so no external investment will be accepted in the short term). But most importantly, there is no guarantee that everyone will benefit from it. What we need is to spend more time creating more value for all the supporters, instead of making empty promises.
+> We are not raising funds, we only sell II. We promise to put early supporters first.In all projects, we will add you as our whitelist and airdrop user. (so no external investment will be accepted in the short term). But most importantly, there is no guarantee that everyone will benefit from it. What we need is to spend more time creating more value for all the supporters, instead of making empty promises.
 
 
 
 How many II will Dstar sell in the beginning?
 
-> We will sell the II with a total value of 15000 ICP. Among them, 10000 ICP will be permanently locked, and the interest will be used for development and maintainance costs. The remaining 5000 ICP will be mainly used for team building.
+> We will sell the II with a total value of 15000 ICP. Among them, 9000 ICP will be permanently locked, and the interest will be used for development and maintainance costs. The remaining 6000 ICP will be mainly used for team building.
 
 
 
