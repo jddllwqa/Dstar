@@ -7,6 +7,7 @@ Why I can only purchase II not sell my II?
 > The transfer of II cannot be completed entirely on chain. If someone commits evil, it will cause damage to the users' interests. 
 > We are working on an solution to ensure 
 > In order to ensure safety, we are solving the problem of transfer security and will go online after the settlement.
+> If the official upgrades the II technology, there is a risk that it cannot be traded. Please purchase as appropriate.
 
 
 
