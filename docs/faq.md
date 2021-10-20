@@ -22,14 +22,14 @@ Is it safe to purchase Dstar II?
 
 Is Dstar an II trading platform?
 
-> No. The II trading is only one of many things that we aim to do. Funds that we obtain from selling II will be put into the research and development of other products. We will release the roadmap in the near future. Dstar will make best use of the capabilities of the IC network and strive to become an excellent digital asset trading platform on ICP, including but not limited to C2C transactions, NFT on the chain, etc. We will also try some brand new products on the IC network depending on the situation.
+> No. The II trading is only one of many things that we aim to do. Funds that we obtain from selling II will be put into the research and development of other products. We will release the roadmap in the near future. Dstar will make best use of the capabilities of IC network to create a series of valuable products . We will also try some brand new products on the IC network depending on the situation.
 
 
 
 What will I get If I purchase II?
 
 > You will get an II that you fancy. If you don't need a favorite number, it is not recommended to purchase. We obtain funds through the sale of II. 
-> We are not raising funds, we only sell II. We promise to put early supporters first.(so no external investment will be accepted in the short term). But most importantly, there is no guarantee that everyone will benefit from it. What we need is to spend more time creating more value for all the supporters, instead of making empty promises.
+> We are not raising funds, we only sell II. We promise to put early supporters first.(so no external investment will be accepted in the short term). What we need is to spend more time creating more value for all the supporters, instead of making empty promises.
 
 
 
