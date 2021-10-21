@@ -2,7 +2,7 @@
 
 > II 作为登陆身份,具备极强的匿名性,以及非常高的安全性。通过正确的方式过户II账号,可以做到对安全性没有任何影响。II数字只对自己可见,不同于QQ, 不对外展示,请不要过度投资。
 
-<iframe width="300" height="500" src="https://www.youtube.com/embed/Exn0BnJRNCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="500" src="https://www.youtube.com/embed/ex-suZja3RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
