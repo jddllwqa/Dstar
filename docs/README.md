@@ -18,7 +18,7 @@ Internet computer have all the capabilities of the traditional Internet, and we 
 
 - No Discord
 
-- Only 2 team members
+- Only 2 team members (We are based in Perth Australia)
 
 - Building better products all the time
 
