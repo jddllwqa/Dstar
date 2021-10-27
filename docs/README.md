@@ -1,6 +1,6 @@
 ## [Dstar.app](https://dstar.app/)
 
-> II is just the beginning.
+> II is just the beginning.When the sale is over, we will announce the Roadmap!
 
 
 
