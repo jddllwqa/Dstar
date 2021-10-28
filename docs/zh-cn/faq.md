@@ -36,7 +36,8 @@ Dstar在初期会销售多少II?
 
 为什么不组建社区以及维护官方Twitter等？
 
-> 我们不认为去中心化平台需要一个官方。一切信息我们将发布在平台上。我们需要集中精力,更快速的迭代。
+> 我们不认为去中心化平台需要一个官方。一切信息我们将发布在Distrikt平台上。我们需要集中精力,更快速的迭代。
+> Distrikt link :https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/u/Dstar
 
 
 
