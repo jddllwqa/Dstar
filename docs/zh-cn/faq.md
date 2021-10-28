@@ -36,14 +36,14 @@ Dstar在初期会销售多少II?
 
 为什么不组建社区以及维护官方Twitter等？
 
-> 我们不认为去中心化平台需要一个官方。一切信息我们将发布在Distrikt平台上。我们需要集中精力,更快速的迭代。
-> Distrikt link :https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/u/Dstar
+> 我们不认为去中心化平台需要一堆中心化社交平台来发布我们的动态。一切信息我们将发布在Distrikt平台上。我们需要集中精力,更快速的迭代。
+> Distrikt link :  https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/u/Dstar
 
 
 
 你们是否建立在IC上?是否开源？
 
-> 是的。核心代码和逻辑,我们都将部署到IC, 并将开源所有代码。
+> 是的。我将根据IC技术的发展,尽可能部署到IC。部分IC无法实现的可能会暂时存放中心化服务器上,等待时机成熟迁移。我们将开源所有代码。
 
 
 >### 一切都是公平的,请不要注册多个账户,因为那完全没有必要。
