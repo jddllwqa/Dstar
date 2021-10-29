@@ -8,7 +8,7 @@ Why use Plug for trading?
 
 > First and foremost, We will never touch users asset, so we need an wallet solution to help with trading. Since the IC network is still in early stage, there are not many options to choose from. After many days of careful research and security analysis, we finally decided to use Plug for login and transaction. In this process, we will use safe and transparent methods to ensure the safety of user transactions.
 
-> Why do I need to log in to Plug again every time I refresh?
+ Why do I need to log in to Plug again every time I refresh?
 > The Plug API requires authorization every time for security purpose.
 
 Why is seed phrase blank sometimes?
