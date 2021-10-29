@@ -12,6 +12,9 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;Internet Identity
 
 * [How to transfer your II account](IITransfer.md)
+  
+  [Using II platform](/use_ii_platform.md)
+
 
   [II ID score](about.md)
 
@@ -24,7 +27,8 @@
   [Early bird](/early.md)
 
   [why buy it](/why.md)
-
+  
+  
  
 
 
