@@ -39,7 +39,7 @@ How many II will Dstar sell in the beginning?
 
 Is there an official Twitter or Discord account?
 
-> We don't think that a decentralized platform needs an centralized social account. We will publish all information on the platform. Also We can concentrate and iterate faster.
+> We don't think that a decentralized platform needs an centralized social account. We will publish all information on the Distrikt **@Dstar**. 
 
 
 
