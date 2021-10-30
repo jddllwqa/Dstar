@@ -45,5 +45,5 @@ Is there an official Twitter or Discord account?
 
 Is the platform build on top of IC and is it an open source software?
 
-> Yes. Check out our github（https://github.com/ic-dstar/ic-dstar）
+> Yes. Check out our github（https://github.com/ic-dstar/ic-dstar）<br/>
 > We will deploy the core code and logic to the IC and open source all the codes.
