@@ -38,7 +38,7 @@ Dstar在初期会销售多少II?
 为什么不组建社区以及维护官方Twitter等？
 
 > 我们不认为去中心化平台需要一堆中心化社交平台来发布我们的动态。一切信息我们将发布在Distrikt平台上。我们需要集中精力,更快速的迭代。
-> Distrikt link :  https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/u/Dstar
+> Distrikt  :  **@Dstar**
 
 
 
