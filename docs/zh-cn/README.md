@@ -14,7 +14,7 @@
 
 - 没有 Telegram
 
-- 没有 Twitter
+- Twitter : https://twitter.com/DstarApp
 
 - 没有 Discord
 
