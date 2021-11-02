@@ -14,7 +14,7 @@ Internet computer have all the capabilities of the traditional Internet, and we 
 
 - No Telegram
 
-- No Twitter
+- Twitter : https://twitter.com/DstarApp
 
 - No Discord
 
