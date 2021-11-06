@@ -1,8 +1,8 @@
 
->To thank early buyers for their support, we will sell 154 numbers at a price of 0.001. Different numbers need to hold different levels of stars to obtain.
+>To thank early buyers for their support, we will sell 154 numbers at a price of 0.001ICP. Different numbers need to hold different levels of stars to obtain.
 
 
-|id|type|score|star|price|countdown|star limit(>)|
+|id|type|score|star|price|countdown(S)|star limit(>)|
 | ---- | ---- | ---- |---- |---- |---- |---- |
 |33333|BBBBB|98|5|0.001|604800|5000|
 |68888|ABBBB|86|4|0.001|417600|1000|
