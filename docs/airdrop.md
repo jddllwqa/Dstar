@@ -1,6 +1,7 @@
 
 >To thank early buyers for their support, we will sell 154 numbers at a price of 0.001ICP. Different numbers need to hold different levels of stars to obtain.
 
+![image](https://user-images.githubusercontent.com/35693605/140601472-7cd8efca-b593-45b6-8965-3708a9ca6dfa.png)
 
 |id|type|score|star|price|countdown(S)|star limit(>)|
 | ---- | ---- | ---- |---- |---- |---- |---- |
