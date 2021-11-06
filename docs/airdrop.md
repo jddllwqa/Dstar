@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/35693605/140601472-7cd8efca-b593-45b6-8965-3708a9ca6dfa.png)
 
-|id|type|score|star|price|countdown(S)|star limit(>)|
+|id|type|score|level|price|countdown(S)|star limit(>)|
 | ---- | ---- | ---- |---- |---- |---- |---- |
 |33333|BBBBB|98|5|0.001|604800|5000|
 |68888|ABBBB|86|4|0.001|417600|1000|
