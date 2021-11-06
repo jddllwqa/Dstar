@@ -159,3 +159,4 @@
 |39399|ABABB|70|4|0.001|108000|10|
 |68868|ABBAB|70|4|0.001|28800|10|
 |88001|AABBC|70|3|0.001|252000|10|
+|C'est La Vie|C'est La Vie|C'est La Vie|C'est La Vie|C'est La Vie|C'est La Vie|C'est La Vie|
