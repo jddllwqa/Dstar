@@ -6,8 +6,7 @@
 
 * [Faqs](faq.md)
 
-  ### &nbsp;&nbsp;&nbsp;&nbsp;Dstar Notes
- * [about Dstar Notes](note.md)
+
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Internet Identity
 
