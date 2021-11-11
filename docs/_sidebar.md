@@ -6,8 +6,8 @@
 
 * [Faqs](faq.md)
 
-  
-
+  ### &nbsp;&nbsp;&nbsp;&nbsp;Dstar Notes
+ * [A blockchain notebook based on Internet Computer](note.md)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Internet Identity
 
